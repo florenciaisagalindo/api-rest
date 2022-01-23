@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title":"Harry Potter",
+        "director":"Chris Columbus",
+        "year":"2001",
+        "rating":"9"
+
+    },
+    {
+        "id": "2",
+        "title":"Spiderman",
+        "director":"Sam Raimi",
+        "year":"2002",
+        "rating":"8.5"
+
+    },
+    {
+        "id": "3",
+        "title":"The batman",
+        "director":"Matt Reeves",
+        "year":"2022",
+        "rating":"10"
+
+    }
+]
